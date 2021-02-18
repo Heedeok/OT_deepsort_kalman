@@ -1,0 +1,5 @@
+/data/video/*
+/data/point/*
+/outputs/*
+/data/yolov4.weights
+/checkpoints/*
